@@ -4,8 +4,7 @@ Last year I was interested in selling our house in Connecticut. I had lots of qu
 
 I decided to scrape some data. I found some nice tools on git hub. 
 
-https://github.com/ChrisMuir/Zillow
-https://github.com/TheBecky/zillow-scraper
+https://github.com/ChrisMuir/Zillow <br /> https://github.com/TheBecky/zillow-scraper
 
 I made some small changes to these and include them in this repository. I then scrapped some data and started going through it. 
 
